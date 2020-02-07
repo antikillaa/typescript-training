@@ -1,0 +1,8 @@
+# Project exclude paths
+/01-helloworld/myhelloworld.js
+/02-variables/sample-types.js
+/03-loops-and-arrays/growable-arrays.js
+/03-loops-and-arrays/loops.js
+/03-loops-and-arrays/reviews.js
+/03-loops-and-arrays/sports.js
+/04-classes/01-class-definition/Customer.js
