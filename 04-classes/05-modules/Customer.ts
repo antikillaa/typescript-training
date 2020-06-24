@@ -3,7 +3,6 @@ export class Customer {
     constructor(private _firstName: string, private _lastName: string) {
     }
 
-
     get firstName(): string {
         return this._firstName;
     }
